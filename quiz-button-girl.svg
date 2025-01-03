@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 背景円 -->
+  <circle cx="50" cy="50" r="48" fill="#ffd6e7" stroke="#ff99c2" stroke-width="4"/>
+  
+  <!-- 髪の毛 -->
+  <path d="M30 35 C30 20, 70 20, 70 35 L70 65 L30 65 Z" fill="#663300"/>
+  
+  <!-- 顔 -->
+  <circle cx="50" cy="45" r="25" fill="#ffe6cc"/>
+  
+  <!-- 目 -->
+  <ellipse cx="40" cy="42" rx="4" ry="6" fill="#000000"/>
+  <ellipse cx="60" cy="42" rx="4" ry="6" fill="#000000"/>
+  
+  <!-- 頬 -->
+  <circle cx="35" cy="48" r="4" fill="#ffb3b3" opacity="0.5"/>
+  <circle cx="65" cy="48" r="4" fill="#ffb3b3" opacity="0.5"/>
+  
+  <!-- 笑顔 -->
+  <path d="M42 52 C45 56, 55 56, 58 52" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- リボン -->
+  <path d="M25 30 C22 28, 22 32, 25 30 L35 25 L25 20 C22 18, 22 22, 25 20" fill="#ff6699"/>
+</svg>
