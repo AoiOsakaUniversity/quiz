@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ランダムクイズ</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+    <div id="quiz-area">
+        <div id="question"></div>
+        <div class="options">
+            <button id="option1"></button>
+            <button id="option2"></button>
+            <button id="option3"></button>
+            <button id="option4"></button>
+        </div>
+        <div id="result"></div>
+        <button id="next-question">次の質問</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
 
